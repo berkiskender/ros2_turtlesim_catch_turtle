@@ -41,11 +41,6 @@ colcon build --packages-select my_turtlesim_project
 colcon build --packages-select my_turtlesim_project_bringup
 ```
 
-```bash
-source install/setup.bash
-colcon build
-```
-
 5. Source the built package:
 
 ```bash
