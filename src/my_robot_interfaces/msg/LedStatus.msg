@@ -1,0 +1,1 @@
+string led_panel_state
